@@ -1,0 +1,81 @@
+[
+  {
+    "registration_date": "2025-09-16 17:51:34.253592",
+    "id": "101",
+    "name": "yuvraj",
+    "email": "ysb@gmail.com",
+    "address": "jodhpur"
+  },
+  {
+    "registration_date": "2025-09-16 17:53:58.958577",
+    "id": "pradeep singh",
+    "name": "psk",
+    "email": "psk@gmail.com",
+    "address": "jodhpur",
+    "qualification": [
+      {
+        "qualification": "12",
+        "year": "2012"
+      },
+      {
+        "qualification": "bca",
+        "year": "2015"
+      }
+    ]
+  },
+  {
+    "registration_date": "2025-09-16 17:56:43.564608",
+    "id": "102",
+    "name": "mayank",
+    "email": "yj@gmail.com",
+    "address": "jodhopur",
+    "qualification": [
+      {
+        "qualification": "bca",
+        "year": "2025"
+      },
+      {
+        "qualification": "mca",
+        "year": "2027"
+      }
+    ]
+  },
+  {
+    "registration_date": "2025-09-16 18:00:16.707078",
+    "id": "103",
+    "name": "kaushal",
+    "email": "kaushal@gmail.com",
+    "address": "jodhpur",
+    "qualification": [
+      {
+        "qualification_name": "12",
+        "qualification_year": "2023"
+      },
+      {
+        "qualification_name": "bca",
+        "qualification_year": "2026"
+      }
+    ]
+  },
+  {
+    "registration_date": "2025-09-16 18:01:22.232306",
+    "id": "101",
+    "name": "yuvraj",
+    "email": "ysb@gmail.com",
+    "address": "jodhpur",
+    "qualification": [
+      {
+        "qualification_name": "12",
+        "qualification_year": "2021"
+      },
+      {
+        "qualification_name": "bca",
+        "qualification_year": "2025"
+      },
+      {
+        "qualification_name": "mca",
+        "qualification_year": "2027"
+      }
+    ]
+  }
+]
